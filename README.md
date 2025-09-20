@@ -25,6 +25,7 @@
 
 ### Senior QE & Automation | Domino’s — Brisbane, Australia  
 *2019.01 – 2025.08*  
+- Led end-to-end testing of Domino’s online system across 6+ countries, with a primary focus on the highly complex checkout and payment flows; drove automation and shift-left QA to ensure seamless user experience, robust security, and globally consistent transaction reliability at scale.
 - **Automation & E2E Testing:** Designed and maintained Playwright and WebDriverIO frameworks for web and mobile, supporting scalable E2E coverage across browsers and devices (BrowserStack, Appium). Automated API and backend validation with Postman/Insomnia and RestSharp/C#, including mock servers to simulate dependencies and reduce flakiness.  
 - **Performance & CI/CD Integration:** Built E2E, integration, and performance test suites (k6, JMeter), integrated into Azure DevOps and Azure pipelines with automated triggers, monitored system and test metrics using New Relic and Grafana, reducing regression execution time and improving release confidence.  
 - **Cloud & Pipeline Deployment:** Collaborated with DevOps to deploy automated tests across AWS (SNS, SQS, EC2/ECS, Lambda, S3, DynamoDB) and Azure (Functions, Logic Apps, Service Bus, App Service, Storage, Key Vault), ensuring scalable, reliable, cloud-native application testing.  
