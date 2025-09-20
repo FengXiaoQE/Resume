@@ -67,7 +67,7 @@ C#, SpecFlow, Selenium, SQL, Linux Shell, TeamCity, Octopus Deploy, Rally, Confl
 
 ---
 
-### QA → Principal QE | Symantec — Beijing, China  
+### QA → Senior QA → QA Supervisor → Principal QE | Symantec — Beijing, China  
 *2006.10 – 2014.07*  
 - Designed and implemented advanced automation flow for UI (Java, Python) and backend services, covering web and mobile platforms, significantly improving testing coverage, operational efficiency, and reliability.  
 - Built and maintained complex network and security environments, including switches, routers, 802.1x, Radius, wireless controllers, and CA infrastructures; developed security automation and penetration testing solutions to proactively identify vulnerabilities and mitigate system risks.  
