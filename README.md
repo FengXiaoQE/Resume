@@ -50,7 +50,7 @@ WebDriver IO, Appium, RestSharp, C#, Python, SpecFlow, Selenium, Postman, Locust
 **Technologies and Tools:**  
 C#, SpecFlow, Selenium, SQL, Linux Shell, TeamCity, Octopus Deploy, Rally, Confluence, Jira, Postman, RestSharp  
 
----
+
 
 ### Senior SDET Lead | LeEco — Beijing, China  
 *2015.07 – 2016.12*  
@@ -58,7 +58,7 @@ C#, SpecFlow, Selenium, SQL, Linux Shell, TeamCity, Octopus Deploy, Rally, Confl
 - Built CI/CD pipelines and data-driven dashboards to automate test flow and provide actionable insights, integrating with cloud clusters and virtualized environments to support distributed and high-demand scenarios.  
 - Introduced modern testing frameworks to standardize automation practices, optimize workflows, and mentored onshore and offshore teams to drive automation adoption, best practices, and technical innovation.  
 
----
+
 
 ### SDET Lead | Tencent — Beijing, China  
 *2014.07 – 2015.07*  
@@ -66,7 +66,7 @@ C#, SpecFlow, Selenium, SQL, Linux Shell, TeamCity, Octopus Deploy, Rally, Confl
 - Managed and coordinated onshore and offshore automation teams, standardizing workflows, conducting showcase sessions, and optimizing delivery pipelines to maximize efficiency and output quality.  
 - Designed and implemented automation solutions for complex network and system environments, integrating browser, system-level, and infrastructure-level checks to proactively detect and resolve critical issues while enhancing regression coverage and reporting.  
 
----
+
 
 ### QA → Senior QA → QA Supervisor → Principal QE | Symantec — Beijing, China  
 *2006.10 – 2014.07*  
@@ -74,13 +74,13 @@ C#, SpecFlow, Selenium, SQL, Linux Shell, TeamCity, Octopus Deploy, Rally, Confl
 - Built and maintained complex network and security environments, including switches, routers, 802.1x, Radius, wireless controllers, and CA infrastructures; developed security automation and penetration testing solutions to proactively identify vulnerabilities and mitigate system risks.  
 - Led mobile device management (MDM) automation and simulated real-world enterprise environments, implementing secure provisioning, policy enforcement, OTA updates, and cross-device compatibility, while continuously refining Python-based frameworks to enhance system robustness and innovation.  
 
----
+
 
 ### SDET Contractor | Intel — Beijing, China  
 *2006.04 – 2006.10*  
 - Developed and executed automated test frameworks for Linux drivers with shell scripts, improving efficiency by 40%.  
 
----
+
 
 ## Education
 
