@@ -13,7 +13,7 @@
 - **Skills Summary:**  
   - **Test Design & Execution:** UAT, Regression, Exploratory, Cross-product Web & Mobile  
   - **Automation Frameworks:** WebDriver IO, Playwright, Appium, Selenium  
-  - **Performance Testing:** K6, JMeter, Locust  
+  - **Performance Testing:** K6, JMeter, Locust for distributed systems
   - **API Testing:** RestSharp/HTTP Client, SpecFlow, Mock Server, Postman/Insomnia, SQL validation  
   - **Cloud & DevOps:** AWS (SNS, SQS, EC2/ECS, Lambda, S3, DynamoDB), Azure Pipelines, Docker, Kubernetes  
   - **Languages & Tools:** TypeScript, JavaScript, C#, Python, SQL, Shell, Git, Jira, Confluence, BrowserStack  
