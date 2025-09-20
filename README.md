@@ -3,7 +3,7 @@
 - **Mobile:** 0411588518  
 - **Email:** workxf@hotmail.com  
 
----
+
 
 ## Profile
 
@@ -19,7 +19,7 @@
   - **Languages & Tools:** TypeScript, JavaScript, C#, Python, SQL, Shell, Git, Jira, Confluence, BrowserStack  
   - **Applied AI:** Prompt engineering, RAG pipelines, multi-agent automation, Copilot, n8n, MCP, Jira Agent  
 
----
+
 
 ## Employment
 
@@ -36,7 +36,7 @@
 **Technologies and Tools:**  
 WebDriver IO, Appium, RestSharp, C#, Python, SpecFlow, Selenium, Postman, Locust/JMeter, K6, SQL, Linux Shell, TeamCity, Confluence, Jira, Docker, Kubernetes, New Relic, Azure Pipeline, LaunchDarkly, Copilot, etc.  
 
----
+
 
 ### Quality Engineer & Automation | TattsGroup (Tabcorp) — Brisbane, Australia  
 *2017.04 – 2019.01*  
