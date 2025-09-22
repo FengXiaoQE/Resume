@@ -25,13 +25,15 @@
 
 ### Senior QE & Automation | Domino’s — Brisbane, Australia  
 *2019.01 – 2025.08*  
-- Led end-to-end testing of Domino’s online system across 6+ countries, with a primary focus on the highly complex checkout and payment flows; drove automation and shift-left QA to ensure seamless user experience, robust security, and globally consistent transaction reliability at scale.
-- **Automation & E2E Testing:** Designed and maintained Playwright and WebDriverIO frameworks for web and mobile, supporting scalable E2E coverage across browsers and devices (BrowserStack, Appium). Automated API and backend validation with Postman/Insomnia and RestSharp/C#, including mock servers to simulate dependencies and reduce flakiness.  
-- **Performance & CI/CD Integration:** Built E2E, integration, and performance test suites (k6, JMeter), integrated into Azure DevOps and Azure pipelines with automated triggers, monitored system and test metrics using New Relic and Grafana, reducing regression execution time and improving release confidence.  
-- **Cloud & Pipeline Deployment:** Collaborated with DevOps to deploy automated tests across AWS (SNS, SQS, EC2/ECS, Lambda, S3, DynamoDB) and Azure (Functions, Logic Apps, Service Bus, App Service, Storage, Key Vault), ensuring scalable, reliable, cloud-native application testing.  
-- **AI-Powered Testing:** Researched and applied AI-driven frameworks (MCP, Copilot, n8n) to optimize test generation, regression coverage, and bug detection; implemented AI-assisted browser testing, Jira reporting, service call diagram generation, and automated code creation for risk analysis.  
-- **Test Strategy & Quality Improvement:** Defined test strategies, frameworks, and best practices, combining AI-assisted analytics to enhance software quality; managed TeamCity configurations, test environments, and automated builds.  
-- **Agile Collaboration & Continuous Improvement:** Partnered with cross-functional teams for story refinement, estimation, execution, and defect management; engaged in sprint ceremonies (planning, standups, retrospectives) and showcased automation to stakeholders for transparency and iterative improvements.  
+- **Project Background**: Dominos Web and App, Payments, Checkouts and many backend services, DB validation  
+- **Quality Assurance**: Drove and contributed to comprehensive QA mindset and activities across the SDLC, including unit, integration, and end-to-end testing coverage, regression, performance, code review, static analysis, test planning, defect management, and CI/CD-integrated automation and promoting shift-left practices.  
+- **Manual Testing**: Led, coordinated and conducted end-to-end testing of Domino’s online system (web, app, GraphQL, services, Power App, DB and CRM), with a focus on checkout and payment across 6+ countries, driving automation and shift-left QA to ensure software quality, tracking progress on Jira card.  
+- **Automation Testing**: Designed and maintained E2E solution with WebDriverIO/Playwright frameworks for web and mobile, supporting scalable E2E coverage across browsers and devices (BrowserStack, Appium). Automated API and backend validation with Postman/Insomnia and RestSharp/C#, including mock servers.  
+- **Performance Testing**: Built, maintained, and executed performance test suites for GraphQL APIs and service layers (REST APIs) using Locust (Python), researched JMeter and K6, integrated into Azure Pipelines to validate performance, identify bottlenecks, and ensure scalability.  
+- **Cloud & DevOps**: Configured automated tests into Azure Pipelines for CI/CD integration for web and services, Leveraged Azure services (Cosmos DB, Monitor/Logs/Application Insights for metrics and diagnostics), and monitored/configured performance metrics with New Relic and Grafana.  
+- **Test Strategy & Software Quality Improvement**: Developed and implemented comprehensive test strategies and frameworks, promoted QA best practices, leveraged AI-assisted analytics and metrics to drive software quality improvements, and managed TeamCity pipelines, test environments, and automated builds.  
+- **Agile Collaboration**: Partnered with cross-functional teams for story refinement, estimation, execution, and defect management; engaged in sprint ceremonies (planning, standups, retrospectives) and showcased features and automation to stakeholders for transparency and iterative improvements.  
+- **AI-Powered Testing**: Researched and applied AI-driven frameworks (MCP, Copilot, n8n) to optimize test generation, regression coverage, and bug detection; implemented AI-assisted browser testing, Jira reporting, service call diagram generation, and automated code creation for risk analysis.  
 
 **Technologies and Tools:**  
 WebDriver IO, Appium, RestSharp, C#, Python, SpecFlow, Selenium, Postman, Locust/JMeter, K6, SQL, Linux Shell, TeamCity, Confluence, Jira, Docker, Kubernetes, New Relic, Azure Pipeline, LaunchDarkly, Copilot, etc.  
@@ -40,13 +42,12 @@ WebDriver IO, Appium, RestSharp, C#, Python, SpecFlow, Selenium, Postman, Locust
 
 ### Quality Engineer & Automation | TattsGroup (Tabcorp) — Brisbane, Australia  
 *2017.04 – 2019.01*  
-- Drove end-to-end testing in Agile environments, refining user stories, defining acceptance criteria, and ensuring product quality through early collaboration with cross-functional teams.  
-- Designed and implemented automated Web UI and backend API test flows using Selenium (C#, SpecFlow BDD), Postman, and mocked services, expanding regression coverage and reducing manual effort.  
-- Developed Python automation scripts to validate SQL logic and device workflows, improving accuracy and reproducibility for complex backend-driven systems such as TattsRNG.  
-- Coordinated integration testing across microservices, optimized automation scenarios, and facilitated showcase sessions to accelerate delivery cycles and improve system reliability.  
-- Built and maintained TeamCity CI/CD pipelines and test environments, enabling automated build deployment, continuous testing, and streamlined release processes.  
-- Championed automation adoption within the team, driving consistent workflows and ensuring scalable, maintainable test solutions across projects.  
-
+- **Project Background**: Tattsgroup betting web, backend services, DB validation and terminal station  
+- **Manual Testing**: Executed manual testing across Web UI, backend services, databases, and SQL procedures, applied QA activities throughout the SDLC, created test strategies and test plans, updated test results in Jira, drove test progress, regression testing, and project releases, and showcased outcomes to stakeholders.  
+- **Automation Testing**: Designed and implemented automated Web UI tests using Selenium with C# and SpecFlow BDD, built backend API test flows, validated SQL databases and procedures, and developed automation scripts to verify SQL logic and data integrity.  
+- **Agile Collaboration**: Collaborated with cross-functional teams in Agile sprints, contributing to test strategy, story refinement, estimation, regression and exploratory testing, and showcased test outcomes during sprint demos for continuous improvement.  
+- **Test Strategy**: Actively collaborated on test strategy, test plan, and test case design, participated in test execution and defect management, and provided insights to optimize QA processes and improve software quality.  
+ 
 **Technologies and Tools:**  
 C#, SpecFlow, Selenium, SQL, Linux Shell, TeamCity, Octopus Deploy, Rally, Confluence, Jira, Postman, RestSharp  
 
