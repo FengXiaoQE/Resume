@@ -1,17 +1,19 @@
 # FENG XIAO
 
 **Senior QA Automation Engineer**
+
+- 📍 **Location:** Brisbane, Australia
 - 📱 **Mobile:** 0411588518  
 - ✉️ **Email:** workxf@hotmail.com  
-- 📍 **Location:** Brisbane, Australia  
-
 
 ## Profile
 
-- **Certifications:** Master's degree in Computer Science  
-- **Experience:**  
-  ISTQB certified Senior QA/Automation Engineer with 15+ years in software testing, including 8+ years in automation and Agile environments. Expertise in full-stack testing, performance, API, and CI/CD pipeline integration.  
-- **Skills Summary:**  
+- Master's degree in Computer Science
+- ISTQB certified Senior QA/Automation Engineer with 15+ years in software testing
+- 8+ years of experience in automation and Agile environments
+- Expertise in full-stack testing, performance testing, API testing, and CI/CD pipeline integration
+
+## Skills  
   - **Test Design & Execution:** UAT, Regression, Exploratory, Cross-product Web & Mobile  
   - **Automation Frameworks:** WebDriver IO, Playwright, Appium, Selenium  
   - **Performance Testing:** K6, JMeter, Locust for distributed systems
