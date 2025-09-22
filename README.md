@@ -17,7 +17,7 @@
   - **Automation Frameworks:** WebDriver IO, Playwright, Appium, Selenium, SpecFlow, data-driven testing  
   - **Performance Testing:** K6, JMeter, Locust for distributed systems, load balancing, scalability analysis  
   - **API Testing:** RestSharp, GraphQL, Mock Server, Postman, REST/SOAP services, SQL validation  
-  - **Cloud & DevOps:** AWS (EC2, Lambda, S3), Azure (Pipelines, Monitor, Application Insights, Cosmos DB), Docker, Kubernetes  
+  - **Cloud & DevOps:** AWS (EC2, Lambda, S3), Azure (Pipelines, Monitor, Cosmos DB), Kubernetes, CI/CD  
   - **Languages & Tools:** TypeScript, JavaScript, C#, Python, SQL, Shell, Git, Jira, TeamCity, BrowserStack  
   - **Applied AI:** Prompt engineering, RAG pipelines, multi-agent automation, Copilot, n8n, MCP frameworks  
 
