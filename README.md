@@ -7,10 +7,10 @@
 
 ## Profile
 
-- Master's degree in Computer Science
-- ISTQB certified Senior QA/Automation Engineer with 15+ years in software testing
-- 8+ years of experience in automation and Agile environments
-- Expertise in full-stack testing, performance testing, API testing, and CI/CD pipeline integration
+- Master's degree in Computer Science with a strong foundation in software engineering principles  
+- ISTQB certified Senior QA/Automation Engineer with over 15 years of hands-on software testing experience  
+- More than 8 years of specialized experience in automation and Agile development environments  
+- Skilled in full-stack testing, performance validation, API testing, and CI/CD pipeline integration
 
 ## Skills  
   - **Test Design & Execution:** UAT, Regression, Exploratory, Cross-product Web & Mobile  
