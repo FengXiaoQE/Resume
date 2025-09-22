@@ -24,15 +24,15 @@
 
 ## Employment
 
-### Senior QE & Automation | Domino’s — Brisbane, Australia  
+### Senior QE & Automation | Domino's — Brisbane, Australia  
 *2019.01 – 2025.08*  
-- **Project Background**: Dominos Web and App, Payments, Checkouts and many backend services, DB validation  
-- **Quality Assurance**: Drove and contributed to comprehensive QA mindset and activities across the SDLC, including unit, integration, and end-to-end testing coverage, regression, performance, code review, static analysis, test planning, defect management, and CI/CD-integrated automation and promoting shift-left practices.  
-- **Manual Testing**: Led, coordinated and conducted end-to-end testing of Domino’s online system (web, app, GraphQL, services, Power App, DB and CRM), with a focus on checkout and payment across 6+ countries, driving automation and shift-left QA to ensure software quality, tracking progress on Jira card.  
+- **Project Background**: Domino's Web and App, Payments, Checkouts and many backend services, DB validation  
+- **Quality Assurance**: Drove comprehensive QA mindset and activities across the SDLC, including unit, integration, and end-to-end testing coverage, regression, performance, code review, static analysis, test planning, defect management, and CI/CD-integrated automation promoting shift-left practices.  
+- **Manual Testing**: Led and conducted end-to-end testing of Domino's online system (web, app, GraphQL, services, Power App, DB and CRM), with focus on checkout and payment across 6+ countries, driving automation and shift-left QA to ensure software quality, tracking progress on Jira cards.  
 - **Automation Testing**: Designed and maintained E2E solution with WebDriverIO/Playwright frameworks for web and mobile, supporting scalable E2E coverage across browsers and devices (BrowserStack, Appium). Automated API and backend validation with Postman/Insomnia and RestSharp/C#, including mock servers.  
 - **Performance Testing**: Built, maintained, and executed performance test suites for GraphQL APIs and service layers (REST APIs) using Locust (Python), researched JMeter and K6, integrated into Azure Pipelines to validate performance, identify bottlenecks, and ensure scalability.  
-- **Cloud & DevOps**: Configured automated tests into Azure Pipelines for CI/CD integration for web and services, Leveraged Azure services (Cosmos DB, Monitor/Logs/Application Insights for metrics and diagnostics), and monitored/configured performance metrics with New Relic and Grafana.  
-- **Test Strategy & Software Quality Improvement**: Developed and implemented comprehensive test strategies and frameworks, promoted QA best practices, leveraged AI-assisted analytics and metrics to drive software quality improvements, and managed TeamCity pipelines, test environments, and automated builds.  
+- **Cloud & DevOps**: Configured automated tests into Azure Pipelines for CI/CD integration for web and services. Leveraged Azure services (Cosmos DB, Monitor/Logs/Application Insights for metrics and diagnostics), and monitored/configured performance metrics with New Relic and Grafana.  
+- **Test Strategy & Quality Improvement**: Developed and implemented comprehensive test strategies and frameworks, promoted QA best practices, leveraged AI-assisted analytics and metrics to drive software quality improvements, and managed TeamCity pipelines, test environments, and automated builds.  
 - **Agile Collaboration**: Partnered with cross-functional teams for story refinement, estimation, execution, and defect management; engaged in sprint ceremonies (planning, standups, retrospectives) and showcased features and automation to stakeholders for transparency and iterative improvements.  
 - **AI-Powered Testing**: Researched and applied AI-driven frameworks (MCP, Copilot, n8n) to optimize test generation, regression coverage, and bug detection; implemented AI-assisted browser testing, Jira reporting, service call diagram generation, and automated code creation for risk analysis.  
 
