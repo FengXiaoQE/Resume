@@ -13,13 +13,13 @@
 - Skilled in full-stack testing, performance validation, API testing, and CI/CD pipeline integration
 
 ## Skills  
-  - **Test Design & Execution:** UAT, Regression, Exploratory, Cross-product Web & Mobile  
-  - **Automation Frameworks:** WebDriver IO, Playwright, Appium, Selenium  
-  - **Performance Testing:** K6, JMeter, Locust for distributed systems
-  - **API Testing:** RestSharp/HTTP Client, SpecFlow, Mock Server, Postman/Insomnia, SQL validation  
-  - **Cloud & DevOps:** AWS (SNS, SQS, EC2/ECS, Lambda, S3, DynamoDB), Azure Pipelines, Docker, Kubernetes  
-  - **Languages & Tools:** TypeScript, JavaScript, C#, Python, SQL, Shell, Git, Jira, Confluence, BrowserStack  
-  - **Applied AI:** Prompt engineering, RAG pipelines, multi-agent automation, Copilot, n8n, MCP, Jira Agent  
+  - **Test Design & Execution:** UAT, Regression, Exploratory, Cross-platform Web & Mobile, BDD/TDD practices  
+  - **Automation Frameworks:** WebDriver IO, Playwright, Appium, Selenium, SpecFlow, data-driven testing  
+  - **Performance Testing:** K6, JMeter, Locust for distributed systems, load balancing, scalability analysis  
+  - **API Testing:** RestSharp, GraphQL, Mock Server, Postman, REST/SOAP services, SQL validation  
+  - **Cloud & DevOps:** AWS (EC2, Lambda, S3), Azure (Pipelines, Monitor, Application Insights, Cosmos DB), Docker, Kubernetes  
+  - **Languages & Tools:** TypeScript, JavaScript, C#, Python, SQL, Shell, Git, Jira, TeamCity, BrowserStack  
+  - **Applied AI:** Prompt engineering, RAG pipelines, multi-agent automation, Copilot, n8n, MCP frameworks  
 
 
 ## Employment
