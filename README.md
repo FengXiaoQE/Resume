@@ -3,8 +3,7 @@
 **Job Target：Senior QA Automation Engineer**
 
 - 📍 **Location:** Brisbane, Australia
-- 📱 **Mobile:** 0411588518  
-- ✉️ **Email:** workxf@hotmail.com  
+- 📱 **Mobile:** 0411588518｜ ✉️ **Email:** workxf@hotmail.com  
 
 ## Profile
 
