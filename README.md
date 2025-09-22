@@ -42,11 +42,11 @@ WebDriver IO, Appium, RestSharp, C#, Python, SpecFlow, Selenium, Postman, Locust
 
 ### Quality Engineer & Automation | TattsGroup (Tabcorp) — Brisbane, Australia  
 *2017.04 – 2019.01*  
-- **Project Background**: Tattsgroup betting web, backend services, DB validation and terminal station  
-- **Manual Testing**: Executed manual testing across Web UI, backend services, databases, and SQL procedures, applied QA activities throughout the SDLC, created test strategies and test plans, updated test results in Jira, drove test progress, regression testing, and project releases, and showcased outcomes to stakeholders.  
+- **Project Background**: TattsGroup betting web, backend services, DB validation and terminal station  
+- **Manual Testing**: Executed manual testing across Web UI, backend services, databases, and SQL procedures, applied QA activities throughout the SDLC, created test strategies and test plans, updated test results in Jira, drove test progress and regression testing, and showcased outcomes to stakeholders.  
 - **Automation Testing**: Designed and implemented automated Web UI tests using Selenium with C# and SpecFlow BDD, built backend API test flows, validated SQL databases and procedures, and developed automation scripts to verify SQL logic and data integrity.  
 - **Agile Collaboration**: Collaborated with cross-functional teams in Agile sprints, contributing to test strategy, story refinement, estimation, regression and exploratory testing, and showcased test outcomes during sprint demos for continuous improvement.  
-- **Test Strategy**: Actively collaborated on test strategy, test plan, and test case design, participated in test execution and defect management, and provided insights to optimize QA processes and improve software quality.  
+- **Test Strategy & Planning**: Actively collaborated on test strategy, test plan, and test case design, participated in test execution and defect management, and provided insights to optimize QA processes and improve software quality.  
  
 **Technologies and Tools:**  
 C#, SpecFlow, Selenium, SQL, Linux Shell, TeamCity, Octopus Deploy, Rally, Confluence, Jira, Postman, RestSharp  
