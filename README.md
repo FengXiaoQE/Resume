@@ -1,8 +1,8 @@
 # FENG XIAO
 
-- **Mobile:** 0411588518  
-- **Email:** workxf@hotmail.com  
-
+- 📱 **Mobile:** 0411588518  
+- ✉️ **Email:** workxf@hotmail.com  
+- 📍 **Location:** Brisbane, Australia  
 
 
 ## Profile
@@ -18,7 +18,6 @@
   - **Cloud & DevOps:** AWS (SNS, SQS, EC2/ECS, Lambda, S3, DynamoDB), Azure Pipelines, Docker, Kubernetes  
   - **Languages & Tools:** TypeScript, JavaScript, C#, Python, SQL, Shell, Git, Jira, Confluence, BrowserStack  
   - **Applied AI:** Prompt engineering, RAG pipelines, multi-agent automation, Copilot, n8n, MCP, Jira Agent  
-
 
 
 ## Employment
@@ -39,7 +38,6 @@
 WebDriver IO, Appium, RestSharp, C#, Python, SpecFlow, Selenium, Postman, Locust/JMeter, K6, SQL, Linux Shell, TeamCity, Confluence, Jira, Docker, Kubernetes, New Relic, Azure Pipeline, LaunchDarkly, Copilot, etc.  
 
 
-
 ### Quality Engineer & Automation | TattsGroup (Tabcorp) — Brisbane, Australia  
 *2017.04 – 2019.01*  
 - **Project Background**: Tattsgroup betting web, backend services, DB validation and terminal station  
@@ -52,13 +50,11 @@ WebDriver IO, Appium, RestSharp, C#, Python, SpecFlow, Selenium, Postman, Locust
 C#, SpecFlow, Selenium, SQL, Linux Shell, TeamCity, Octopus Deploy, Rally, Confluence, Jira, Postman, RestSharp  
 
 
-
 ### Senior SDET Lead | LeEco — Beijing, China  
 *2015.07 – 2016.12*  
 - Developed and maintained robust automation flow for desktop and mobile platforms (web, API, Android/iOS) using Python, Selenium, and Appium, enabling repeatable, maintainable test processes across multiple environments.  
 - Built CI/CD pipelines and data-driven dashboards to automate test flow and provide actionable insights, integrating with cloud clusters and virtualized environments to support distributed and high-demand scenarios.  
 - Introduced modern testing frameworks to standardize automation practices, optimize workflows, and mentored onshore and offshore teams to drive automation adoption, best practices, and technical innovation.  
-
 
 
 ### SDET Lead | Tencent — Beijing, China  
@@ -68,7 +64,6 @@ C#, SpecFlow, Selenium, SQL, Linux Shell, TeamCity, Octopus Deploy, Rally, Confl
 - Designed and implemented automation solutions for complex network and system environments, integrating browser, system-level, and infrastructure-level checks to proactively detect and resolve critical issues while enhancing regression coverage and reporting.  
 
 
-
 ### QA → Senior QA → QA Supervisor → Principal QE | Symantec — Beijing, China  
 *2006.10 – 2014.07*  
 - Designed and implemented advanced automation flow for UI (Java, Python) and backend services, covering web and mobile platforms, significantly improving testing coverage, operational efficiency, and reliability.  
@@ -76,11 +71,9 @@ C#, SpecFlow, Selenium, SQL, Linux Shell, TeamCity, Octopus Deploy, Rally, Confl
 - Led mobile device management (MDM) automation and simulated real-world enterprise environments, implementing secure provisioning, policy enforcement, OTA updates, and cross-device compatibility, while continuously refining Python-based frameworks to enhance system robustness and innovation.  
 
 
-
 ### SDET Contractor | Intel — Beijing, China  
 *2006.04 – 2006.10*  
 - Developed and executed automated test frameworks for Linux drivers with shell scripts, improving efficiency by 40%.  
-
 
 
 ## Education
